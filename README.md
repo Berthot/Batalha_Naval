@@ -1,2 +1,2 @@
 # Batalha_Naval
-Jogo desenvolvido em C#  para trabalho da faculdade,
+Jogo desenvolvido em C#  para trabalho da faculdade no primeiro periodo.
